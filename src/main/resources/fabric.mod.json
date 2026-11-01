@@ -1,0 +1,26 @@
+{
+  "schemaVersion": 1,
+  "id": "campfire_pod",
+  "version": "1.1.0",
+  "name": "Campfire Pod",
+  "description": "A pot you hang over a campfire to boil and purify Tough As Nails water.",
+  "authors": [
+    "Deniz"
+  ],
+  "license": "MIT",
+  "environment": "*",
+  "entrypoints": {
+    "main": [
+      "com.deniz.campfirepod.CampfirePod"
+    ],
+    "client": [
+      "com.deniz.campfirepod.CampfirePodClient"
+    ]
+  },
+  "depends": {
+    "fabricloader": ">=0.16.0",
+    "minecraft": "~1.21.1",
+    "fabric-api": "*",
+    "toughasnails": "*"
+  }
+}

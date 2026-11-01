@@ -1,0 +1,9 @@
+build/
+out/
+multiversion/build/
+.gradle/
+run/
+*.jar
+!gradle/wrapper/gradle-wrapper.jar
+*.log
+testservers/

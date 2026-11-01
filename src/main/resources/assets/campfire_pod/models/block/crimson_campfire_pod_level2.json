@@ -1,0 +1,7 @@
+{
+  "parent": "campfire_pod:block/template_campfire_pod_level2",
+  "textures": {
+    "wood": "minecraft:block/crimson_stem",
+    "wood_top": "minecraft:block/crimson_stem_top"
+  }
+}

@@ -1,0 +1,15 @@
+{
+  "replace": false,
+  "values": [
+    "campfire_pod:oak_campfire_pod",
+    "campfire_pod:campfire_pod",
+    "campfire_pod:birch_campfire_pod",
+    "campfire_pod:jungle_campfire_pod",
+    "campfire_pod:acacia_campfire_pod",
+    "campfire_pod:dark_oak_campfire_pod",
+    "campfire_pod:mangrove_campfire_pod",
+    "campfire_pod:cherry_campfire_pod",
+    "campfire_pod:crimson_campfire_pod",
+    "campfire_pod:warped_campfire_pod"
+  ]
+}

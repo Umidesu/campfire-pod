@@ -1,0 +1,28 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "misc",
+  "group": "campfire_pod",
+  "pattern": [
+    "LIL",
+    "SBS",
+    "S S"
+  ],
+  "key": {
+    "L": {
+      "tag": "minecraft:mangrove_logs"
+    },
+    "I": {
+      "item": "minecraft:iron_ingot"
+    },
+    "S": {
+      "item": "minecraft:stick"
+    },
+    "B": {
+      "item": "minecraft:bucket"
+    }
+  },
+  "result": {
+    "count": 1,
+    "id": "campfire_pod:mangrove_campfire_pod"
+  }
+}

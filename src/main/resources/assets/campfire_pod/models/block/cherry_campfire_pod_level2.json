@@ -1,0 +1,7 @@
+{
+  "parent": "campfire_pod:block/template_campfire_pod_level2",
+  "textures": {
+    "wood": "minecraft:block/cherry_log",
+    "wood_top": "minecraft:block/cherry_log_top"
+  }
+}

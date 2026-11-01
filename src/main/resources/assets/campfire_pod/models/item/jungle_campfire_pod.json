@@ -1,0 +1,6 @@
+{
+  "parent": "minecraft:item/generated",
+  "textures": {
+    "layer0": "campfire_pod:item/jungle_campfire_pod"
+  }
+}

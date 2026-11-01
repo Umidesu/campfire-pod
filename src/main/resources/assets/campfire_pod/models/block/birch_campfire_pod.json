@@ -1,0 +1,7 @@
+{
+  "parent": "campfire_pod:block/template_campfire_pod",
+  "textures": {
+    "wood": "minecraft:block/birch_log",
+    "wood_top": "minecraft:block/birch_log_top"
+  }
+}
