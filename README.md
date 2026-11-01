@@ -36,7 +36,7 @@ Gradle selects the JDK through toolchains. To point it at your local JDKs, set `
 
 ## Credits
 
-The code was written with AI assistance. The block models, textures and item icons are the author's own handmade work.
+The code was written with AI assistance. The textures, block models and item icon are hand-made; the per-wood icon variants are recolors of that hand-made icon.
 
 ## Disclaimer
 
