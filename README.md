@@ -38,6 +38,10 @@ Gradle selects the JDK through toolchains. To point it at your local JDKs, set `
 
 The code was written with AI assistance. The block models, textures and item icons are the author's own handmade work.
 
+## Disclaimer
+
+NOT AN OFFICIAL MINECRAFT PRODUCT. NOT APPROVED BY OR ASSOCIATED WITH MOJANG OR MICROSOFT.
+
 ## License
 
 MIT. See [LICENSE](LICENSE).
